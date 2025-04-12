@@ -63,8 +63,8 @@ st.markdown(
 
 
 # 📚 File Paths
-calories_file = r"E:\Documents\Fitness-Tracker\calories.csv"
-exercise_file = r"E:\Documents\Fitness-Tracker\exercise.csv"
+calories_file = r"calories.csv"
+exercise_file = r"exercise.csv"
 
 # Function to get current IST time
 def get_current_time():
